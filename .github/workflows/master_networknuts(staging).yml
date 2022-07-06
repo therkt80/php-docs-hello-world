@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'networknuts'
           slot-name: 'staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35D512FE78504B82A387D17F131AF353 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_723B3C20B84E4A8A89D5B959BB08DDB5 }}
           package: .
