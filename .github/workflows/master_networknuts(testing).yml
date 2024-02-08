@@ -63,4 +63,4 @@ jobs:
           app-name: 'networknuts'
           slot-name: 'testing'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_791B83373B0A465AACF17B8B2CB631F4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87C59AE3A28C44CFB0DB974F406E7FD0 }}
